@@ -1,0 +1,59 @@
+---
+title: "Database on Indian Economy"
+subtitle: Workshop held at CDS
+author: Nithin M
+format:
+  revealjs:
+    theme: [sky, styles.scss]
+    slide-number: true
+    chalkboard: true
+    highlight-style: dracula
+    multiplex: false
+    preview-links: true
+    controls: true
+    footer: "https://nithinmkp.github.io/kea-talk/"
+brand: false
+---
+
+## {.standout}
+Welcome
+---
+
+{{< include about_me.qmd >}}
+
+---
+## Introduction {.scrollable}
+- About the workshop
+
+### Workshop Details  
+
+| Date                 | Sessions                                   | Speaker(s) |
+|----------------------|------------------------------------------|------------|
+| **February 17 (Monday)** | Inauguration                            | Prof. Veeramani C |
+|                      | About the Programme                      | Prof. Vinoj Abraham |
+|                      | Overview of Statistical System           | Mr. Mohanan P C |
+|                      | Poverty and Inequality                   | Prof. Himanshu |
+| **February 18 (Tuesday)** | Trade Indicators                        | Prof. Veeramani |
+|                      | Macro-Economic Indicators                | Prof. M. Parameswaran |
+|                      | Industry Data: ASI and NSSO              | Dr. K Chandra Shekar |
+| **February 19 (Wednesday)** | R&D, Innovation, and Technology      | Dr. Chidamabaran Iyer |
+|                      | Measuring Inequality & Natural Experiments | Dr. Amartya Paul |
+| **February 20 (Thursday)** | Employment Issues and Data             | Prof. Vinoj Abraham |
+|                      | Working with NSS-PLFS Data               | Mr. Basit Abdullah |
+|                      | Financial Data                           | Ms. Devika Dileepkumar |
+| **February 21 (Friday)** | Online Resources                       | Mr. Sriram V |
+|                      | Public Finance                           | Dr. Aswathy Rachel Varghese |
+|                      | Public Finance and GST Data              | Dr. Aswathy Rachel Varghese, Dr. Kiran Kumar Kakarlapudi |
+| **February 22 (Saturday)** | Indicators on Public Sector Enterprises  | Dr. Ritika Jain |
+|                      | CMIE/CPHS Data, Night Light Data         | Dr. Kiran Kumar Kakarlapudi, Ms. Athira Karunakaran |
+| **February 23 (Sunday)** | Farm and Rural Household Surveys      | Dr. Thiagu Ranganathan |
+|                      | Health and Welfare Analysis (NSSO & NFHS) | Dr. Balakrushna Padhi |
+|                      | Wellbeing Analysis (IHDS Cross-section & Panel) | Dr. Balakrushna Padhi |
+
+- i will present my learning day wise and session wise
+
+## Day 1
+- Discussed about overview of the Indian Statistcial System
+  - Data Collection decentralized horizontally and vertically
+  - Statistics is asubject in concurrent list
+  - Not much development in state statistical system

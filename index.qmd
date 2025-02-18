@@ -1,0 +1,48 @@
+---
+title: "Welcome"
+---
+
+Welcome to the "Database on Indian Economy". The workshop website can be found at [link]() where you will also find a copy of the slides.
+
+## CDS Workshop on Database on Indian Economy  
+**Funded by ICSSR**  
+📍 **Venue:** Centre for Development Studies, Thiruvananthapuram, Kerala  
+📌 **GPS Location:** [Centre for Development Studies, Thiruvananthapuram](https://www.google.com/maps/place/Centre+for+Development+Studies/@8.556518,76.882383,15z/data=!4m6!3m5!1s0x3b05bbe6e50e97df:0x9a6a62e5b1c17450!8m2!3d8.556518!4d76.882383!16s%2Fg%2F11b6g2dm45?entry=ttu)  
+
+![Centre for Development Studies](cds.png)  
+
+📅 **February 17th – 23rd, 2025**  
+
+# Workshop Details  
+
+| Date                 | Sessions                                   | Speaker(s) |
+|----------------------|------------------------------------------|------------|
+| **February 17 (Monday)** | Inauguration                            | Prof. Veeramani C |
+|                      | About the Programme                      | Prof. Vinoj Abraham |
+|                      | Overview of Statistical System           | Mr. Mohanan P C |
+|                      | Poverty and Inequality                   | Prof. Himanshu |
+| **February 18 (Tuesday)** | Trade Indicators                        | Prof. Veeramani |
+|                      | Macro-Economic Indicators                | Prof. M. Parameswaran |
+|                      | Industry Data: ASI and NSSO              | Dr. K Chandra Shekar |
+| **February 19 (Wednesday)** | R&D, Innovation, and Technology      | Dr. Chidamabaran Iyer |
+|                      | Measuring Inequality & Natural Experiments | Dr. Amartya Paul |
+| **February 20 (Thursday)** | Employment Issues and Data             | Prof. Vinoj Abraham |
+|                      | Working with NSS-PLFS Data               | Mr. Basit Abdullah |
+|                      | Financial Data                           | Ms. Devika Dileepkumar |
+| **February 21 (Friday)** | Online Resources                       | Mr. Sriram V |
+|                      | Public Finance                           | Dr. Aswathy Rachel Varghese |
+|                      | Public Finance and GST Data              | Dr. Aswathy Rachel Varghese, Dr. Kiran Kumar Kakarlapudi |
+| **February 22 (Saturday)** | Indicators on Public Sector Enterprises  | Dr. Ritika Jain |
+|                      | CMIE/CPHS Data, Night Light Data         | Dr. Kiran Kumar Kakarlapudi, Ms. Athira Karunakaran |
+| **February 23 (Sunday)** | Farm and Rural Household Surveys      | Dr. Thiagu Ranganathan |
+|                      | Health and Welfare Analysis (NSSO & NFHS) | Dr. Balakrushna Padhi |
+|                      | Wellbeing Analysis (IHDS Cross-section & Panel) | Dr. Balakrushna Padhi |
+
+### Acknowledgements  
+I gratefully acknowledge the support of:  
+- **State Planning Board, Thiruvananthapuram**  
+- **Centre for Development Studies (CDS), Thiruvananthapuram**  
+
+
+
+

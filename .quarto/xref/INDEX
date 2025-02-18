@@ -1,0 +1,38 @@
+{
+  "index.qmd": {
+    "index.html": "474acee0"
+  },
+  "about.qmd": {
+    "about.html": "dbdc0a18"
+  },
+  "demo.qmd": {
+    "demo.html": "11bdb031"
+  },
+  "Slides/day-1/about_me.qmd": {
+    "about_me.html": "1f396fa6"
+  },
+  "Slides/day-1/about_u.qmd": {
+    "about_u.html": "17b9d057"
+  },
+  "Slides/day-1/index.qmd": {
+    "index.html": "4d77b903"
+  },
+  "Slides/day-1/slides.qmd": {
+    "slides.html": "f5cde205"
+  },
+  "Slides/slides.qmd": {
+    "slides.html": "9fdcda0c"
+  },
+  "Resources/day1/index.qmd": {
+    "index.html": "7659f4e5"
+  },
+  "Slides/about_me.qmd": {
+    "about_me.html": "e928ffae"
+  },
+  "Slides/about_u.qmd": {
+    "about_u.html": "d499d7cd"
+  },
+  "Slides/index.qmd": {
+    "index.html": "4cd6cc8e"
+  }
+}

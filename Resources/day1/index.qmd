@@ -1,0 +1,29 @@
+---
+title: "Day 1"
+format: html
+---
+
+# Session - 1 Overview of the Statistical System
+**Speaker: P.C Mohanan (Chairman, State Statistical Commission)** 
+
+##  Slides
+[Download Slides]
+## 📊 Data
+[Download Data]
+
+## 🖥️ Code
+[Download Code]
+
+## 📖 References
+
+# Session - 2 Poverty and Inequality
+**Speaker: Prof. Himanshu(JNU)**
+
+##  Slides
+[Download Slides]
+
+## 📊 Data
+[Download Data]
+
+## 🖥️ Code
+[Download Code]

@@ -1,0 +1,37 @@
+/*-- scss:defaults --*/
+$navbar-bg: #222222;  // Navbar background color
+$navbar-text: #ffffff; // Navbar text color
+$dropdown-bg: #3a3f5a; // Dropdown background (pastel contrast)
+$dropdown-text: #ffcc99; // Dropdown text color
+$dropdown-hover-bg: #55687d; // Dropdown hover background
+$dropdown-hover-text: #ffffff; // Dropdown hover text color
+
+/*-- scss:rules --*/
+
+.navbar {
+  background-color: $navbar-bg !important;
+  color: $navbar-text !important;
+}
+
+.navbar a {
+  color: $navbar-text !important;
+}
+
+.navbar a:hover {
+  color: #ffcc00 !important; /* Navbar hover text */
+}
+
+/* Dropdown menu styles */
+.dropdown-menu {
+  background-color: $dropdown-bg !important; /* Custom dropdown background */
+  border: none; /* Remove any default borders */
+}
+
+.dropdown-menu a {
+  color: $dropdown-text !important; /* Custom dropdown text */
+}
+
+.dropdown-menu a:hover {
+  background-color: $dropdown-hover-bg !important; /* Custom hover background */
+  color: $dropdown-hover-text !important; /* Custom hover text */
+}

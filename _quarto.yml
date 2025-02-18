@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Database on Indian Economy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Slides/index.qmd
+        text: Slides   
+      - text: Resources
+        menu:
+          - href: Resources/day1/index.qmd
+            text: Day-1
+
+
+format:
+  html:
+    theme:
+      - yeti
+      - tweaks.scss
+    toc: true
+brand: brand.yml
+
+
+
